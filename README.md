@@ -49,6 +49,3 @@ Developed with ❤️ by **Rodrigo Zandonadi**
 
 ⭐ **If you like this project, don't forget to star it!** ⭐  
 ```
-
----
-
